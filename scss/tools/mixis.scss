@@ -1,0 +1,82 @@
+/*
+** SCREEN-SIZES
+*/
+
+$screen-xs : 380px !default;
+$screen-sm : 550px !default;
+$screen-md : 769px !default;
+$screen-lg : 1025px !default; 
+$screen-xl : 1200px !default;
+$screen-xxl : 1540px !default;
+
+/**
+ * Breakpoints 
+ */
+$breakpoints: (
+    'xs': $screen-xs,
+    'sm': $screen-sm,
+    'md': $screen-md,
+    'lg': $screen-lg,
+    'xl': $screen-xl,
+    'xxl': $screen-xxl
+);
+
+
+
+/**
+ * MEDIA QUERIES
+ */
+
+ @mixin mq($width, $type: min) {
+    @if map_has_key($breakpoints, $width) {
+        $width: map_get($breakpoints, $width);
+    }
+
+    @if $type == max {
+        $width: $width - 1px;
+    }
+
+    @media only screen and (#{$type}-width: $width) {
+        @content;
+    }
+}
+
+
+/**
+* ATALHOS 
+*/
+
+@mixin w-h($content) {
+  width: $content;
+  height: $content;
+}
+
+
+/** 
+*  PRE-FIXOS 
+*/
+
+
+@mixin transform($transform) {
+  -webkit-transform: $transform;
+  -moz-transform: $transform;
+  -ms-transform: $transform;
+  -o-transform: $transform;
+  transform: $transform;
+}
+
+@mixin transition($transition) {
+  -webkit-transition: $transition;
+  -moz-transition: $transition;
+  -o-transition: $transition;
+}
+
+@mixin animation($animation){
+  -webkit-animation: $animation;
+  -moz-animation: $animation;
+  -o-animation: $animation;
+  animation: $animation;
+}
+
+
+

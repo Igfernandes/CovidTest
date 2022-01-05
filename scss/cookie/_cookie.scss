@@ -1,0 +1,37 @@
+cookie{
+    position: fixed;
+    bottom: 3%;
+    left: 2%;
+    width: 48%;
+    background: #666;
+    color: #Fff;
+    opacity: 0;
+    z-index: 99999;
+    transition: opacity .5s ease-in-out;
+    .cookie{
+        &-content{
+            padding: 3%;
+            &-text{
+                font-size: .8rem;
+                a{
+                    color: #fff;
+                    text-decoration: none;
+                    &:first-of-type{
+                        text-decoration: underline !important;
+                    }
+                }
+            }
+            .btn-confirm{
+                text-align: end;
+                button{
+                    font-size: .8rem;
+                    padding: 2% 3%;
+                    border: none;
+                    border-radius: .5rem;
+                    outline-style: none;
+                }
+            }
+        }
+    }
+}
+

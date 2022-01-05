@@ -1,0 +1,31 @@
+//animations
+@import './animations/animations.scss';
+
+//TOOLS
+@import './tools/mixis.scss';
+
+//SETTINGS
+@import './settings/settings.scss';
+
+//BOOTSTRAP
+@import './libary/bootstrap/bootstrap.scss';
+@import './libary/bootstrap/bootstrap-reboot.scss';
+@import './libary/bootstrap/bootstrap-grid.scss';
+
+//INPUTTELL
+@import '../css/intlTelInput.min.css';
+
+//COOKIE
+@import './cookie/cookie';
+
+//FOOTER
+@import './layout/globals/footer/footer';
+
+//LOGIN
+@import './layout/login/login';
+
+//REGISTER
+@import './layout/register/register';
+
+//USER
+@import './layout/user/user';

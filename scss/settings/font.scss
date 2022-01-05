@@ -1,0 +1,30 @@
+/**
+*   REGISTER FONTS
+**/
+
+// @font-face{
+//     font-family: 'Metropolis';
+//     font-weight: 100;
+//     font-style: normal;
+//     src: url(./../../src/fonts/) format('OpenType');
+// }
+
+
+/** 
+* FONTS GLOBALS
+**/
+
+$size1: 10px;
+$size2: 12px;
+$size3: 16px;
+$size4: 20px;
+
+
+$font-default: 'Metropolis';
+
+
+//CONFIG
+
+*{
+    font-family: $font-default;
+}

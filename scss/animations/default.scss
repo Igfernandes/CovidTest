@@ -1,0 +1,56 @@
+/*  
+    GERALS EFECTS
+*/
+
+//ONLY OPACITY
+@keyframes opacity{
+    from{
+        opacity: 0;
+    }to{
+        opacity: 1;
+    }
+}
+
+
+//ONLY SCALLE
+@keyframes scale{
+
+    from{
+       transform: scale(1);
+    }to{
+        transform: scale(1.2);
+    }
+}
+
+
+
+//ONLY SCALLE
+@keyframes rotate{
+    from{
+       transform: rotate(0deg);
+    }to{
+        transform: rotate(360deg);
+    }
+}
+
+
+
+@keyframes internitModShow{
+    from{
+        opacity: 0;
+        transform: translateY(30vh);
+    }to{
+        opacity: 1;
+        transform: translateY(40vh);
+    }
+}
+
+@keyframes internitModHidden{
+    from{
+        opacity: 1;
+        transform: translateY(40vh)
+    }to{
+        opacity: 0;
+        transform: translateY(30rem);
+    }
+}

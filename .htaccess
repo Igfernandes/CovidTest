@@ -1,0 +1,14 @@
+# Página de erro personalizada
+ErrorDocument 404 /index.php
+ErrorDocument 400 /index.php
+ErrorDocument 500 /index.php
+ErrorDocument 403 ../index.php
+
+# Impedir o acesso ao arquivo .htaccess
+<Files .htaccess>
+order allow,deny
+deny from all
+</Files>
+
+# Impedir o acesso à lista de diretórios e arquivos
+Options All -Indexes

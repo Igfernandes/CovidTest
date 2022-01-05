@@ -1,0 +1,256 @@
+{
+    "accounts": [
+        {
+            "user": {
+                "acess": {
+                    "username": "fulano@gmail.com",
+                    "password": "456",
+                    "last_acess": "04\/01\/2022 04:38:47"
+                },
+                "nome": "gabriel",
+                "cpf": "111.111.111-11",
+                "telefone": "(21) 9 81329999",
+                "email": "fulano@gmail.com"
+            },
+            "sintomas": {
+                "password": "456",
+                "dores-corpo": "sim",
+                "tosse": "n\u00e3o",
+                "coriza": "n\u00e3o",
+                "falta-ar": "n\u00e3o",
+                "olfato": "sim",
+                "paladar": "n\u00e3o",
+                "garganta": "n\u00e3o",
+                "fraqueza": "n\u00e3o",
+                "febre": "n\u00e3o",
+                "espirro": "n\u00e3o",
+                "calafrios": "n\u00e3o",
+                "diarreia": "n\u00e3o",
+                "contatos-sintomas": "sim",
+                "temperatura": "sim",
+                "atualizar": ""
+            },
+            "data_rgts": "04\/01\/2022 04:38:47"
+        },
+        {
+            "user": {
+                "acess": {
+                    "username": "igor@mail.com",
+                    "password": "453",
+                    "last_acess": "02\/01\/2022 08:44:25"
+                },
+                "nome": "igor fernandes",
+                "cpf": "172.225.347-92",
+                "telefone": "(21) 9 81329999",
+                "email": "igor@mail.com"
+            },
+            "sintomas": {
+                "password": "453",
+                "dores-corpo": "sim",
+                "tosse": "n\u00e3o",
+                "coriza": "n\u00e3o",
+                "falta-ar": "n\u00e3o",
+                "olfato": "n\u00e3o",
+                "paladar": "sim",
+                "garganta": "n\u00e3o",
+                "fraqueza": "n\u00e3o",
+                "febre": "n\u00e3o",
+                "espirro": "sim",
+                "calafrios": "n\u00e3o",
+                "diarreia": "n\u00e3o",
+                "contatos-sintomas": "sim",
+                "temperatura": "n\u00e3o",
+                "atualizar": ""
+            },
+            "data_rgts": "02\/01\/2022 08:44:25"
+        },
+        {
+            "user": {
+                "acess": {
+                    "username": "Gabriel@gmail.com",
+                    "password": "123",
+                    "last_acess": "03\/01\/2022 10:21:11"
+                },
+                "nome": "gabriel",
+                "cpf": "77.777777.77.77",
+                "telefone": "021981325543",
+                "email": "Gabriel@gmail.com"
+            },
+            "sintomas": {
+                "password": "123",
+                "dores-corpo": "n\u00e3o",
+                "tosse": "sim",
+                "coriza": "n\u00e3o",
+                "falta-ar": "n\u00e3o",
+                "olfato": "n\u00e3o",
+                "paladar": "sim",
+                "garganta": "n\u00e3o",
+                "fraqueza": "n\u00e3o",
+                "febre": "n\u00e3o",
+                "espirro": "n\u00e3o",
+                "calafrios": "n\u00e3o",
+                "diarreia": "n\u00e3o",
+                "contatos-sintomas": "sim",
+                "temperatura": "sim",
+                "adicionar": ""
+            },
+            "data_rgts": "03\/01\/2022 10:21:11"
+        },
+        {
+            "user": {
+                "acess": {
+                    "username": "root@gmail.com",
+                    "password": "456",
+                    "last_acess": "05\/01\/2022 05:28:21"
+                },
+                "nome": "teste",
+                "cpf": "185.515.151-51",
+                "telefone": "(21) 9 8132 - 9999",
+                "email": "root@gmail.com"
+            },
+            "sintomas": {
+                "password": "456",
+                "dores-corpo": "n\u00e3o",
+                "tosse": "sim",
+                "coriza": "n\u00e3o",
+                "falta-ar": "n\u00e3o",
+                "olfato": "sim",
+                "paladar": "sim",
+                "garganta": "n\u00e3o",
+                "fraqueza": "n\u00e3o",
+                "febre": "n\u00e3o",
+                "espirro": "sim",
+                "calafrios": "n\u00e3o",
+                "diarreia": "n\u00e3o",
+                "contatos-sintomas": "n\u00e3o",
+                "temperatura": "sim",
+                "atualizar": ""
+            },
+            "data_rgts": "05\/01\/2022 05:28:21"
+        },
+        {
+            "user": {
+                "acess": {
+                    "username": "fer@mail.com",
+                    "password": "123",
+                    "last_acess": "04\/01\/2022 02:53:58"
+                },
+                "nome": "teste",
+                "cpf": "424.242.424-24",
+                "telefone": "(21) 9 8132 - 9999",
+                "email": "fer@mail.com"
+            },
+            "sintomas": {
+                "password": "123",
+                "dores-corpo": "n\u00e3o",
+                "tosse": "n\u00e3o",
+                "coriza": "n\u00e3o",
+                "falta-ar": "n\u00e3o",
+                "olfato": "n\u00e3o",
+                "paladar": "n\u00e3o",
+                "garganta": "n\u00e3o",
+                "fraqueza": "n\u00e3o",
+                "febre": "n\u00e3o",
+                "espirro": "sim",
+                "calafrios": "sim",
+                "diarreia": "n\u00e3o",
+                "contatos-sintomas": "n\u00e3o",
+                "temperatura": "n\u00e3o",
+                "adicionar": ""
+            },
+            "data_rgts": "04\/01\/2022 02:53:58"
+        },
+        {
+            "user": {
+                "acess": {
+                    "username": "josiane@tcc.com",
+                    "password": "6969",
+                    "last_acess": "05\/01\/2022 04:39:29"
+                },
+                "nome": "Josiane",
+                "cpf": "242.424.242-42",
+                "telefone": "(21) 6 9696 - 9696",
+                "email": "josiane@tcc.com"
+            },
+            "sintomas": {
+                "password": "6969",
+                "dores-corpo": "sim",
+                "tosse": "sim",
+                "coriza": "n\u00e3o",
+                "falta-ar": "sim",
+                "olfato": "n\u00e3o",
+                "paladar": "n\u00e3o",
+                "garganta": "sim",
+                "fraqueza": "sim",
+                "febre": "n\u00e3o",
+                "espirro": "n\u00e3o",
+                "calafrios": "n\u00e3o",
+                "diarreia": "sim",
+                "contatos-sintomas": "n\u00e3o",
+                "temperatura": "sim",
+                "atualizar": ""
+            },
+            "data_rgts": "05\/01\/2022 04:39:29"
+        },
+        {
+            "user": {
+                "acess": {
+                    "username": "valesca@macae.com",
+                    "password": "24245",
+                    "last_acess": "05\/01\/2022 06:56:55"
+                },
+                "nome": "Valesca",
+                "cpf": "717.171.717-17",
+                "telefone": "(71) 7 1717 - 1717",
+                "email": "valesca@macae.com"
+            },
+            "sintomas": {
+                "dores_corpo": "n\u00e3o",
+                "tosse": "sim",
+                "coriza": "n\u00e3o",
+                "falta_ar": "n\u00e3o",
+                "olfato": "n\u00e3o",
+                "paladar": "n\u00e3o",
+                "garganta": "n\u00e3o",
+                "fraqueza": "n\u00e3o",
+                "febre": "n\u00e3o",
+                "espirro": "n\u00e3o",
+                "calafrios": "n\u00e3o",
+                "diarreia": "n\u00e3o",
+                "contatos_sintomas": "n\u00e3o",
+                "temperatura": "n\u00e3o"
+            },
+            "data_rgts": "05\/01\/2022 06:56:55"
+        },
+        {
+            "user": {
+                "acess": {
+                    "username": "joao@mail.com",
+                    "password": "142",
+                    "last_acess": "05\/01\/2022 06:57:53"
+                },
+                "nome": "jo\u00e3o",
+                "cpf": "414.727.247-27",
+                "telefone": "(21) 9 8132 - 9999",
+                "email": "joao@mail.com"
+            },
+            "sintomas": {
+                "dores_corpo": "n\u00e3o",
+                "tosse": "n\u00e3o",
+                "coriza": "n\u00e3o",
+                "falta_ar": "n\u00e3o",
+                "olfato": "n\u00e3o",
+                "paladar": "n\u00e3o",
+                "garganta": "n\u00e3o",
+                "fraqueza": "n\u00e3o",
+                "febre": "n\u00e3o",
+                "espirro": "sim",
+                "calafrios": "n\u00e3o",
+                "diarreia": "n\u00e3o",
+                "contatos_sintomas": "n\u00e3o",
+                "temperatura": "n\u00e3o"
+            },
+            "data_rgts": "05\/01\/2022 06:57:53"
+        }
+    ]
+}

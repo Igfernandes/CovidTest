@@ -72,7 +72,7 @@
                                             <div class="form-row">
                                                 <div class="col-12">
                                                     <div class="form-group">
-                                                        <input type="email" name="login" id="login" placeholder=" " required>
+                                                        <input type="email" name="login" id="login" placeholder=" " value="" required>
                                                         <label for="login">Insira o seu E-mail/User</label>
                                                     </div>
                                                 </div>
@@ -80,7 +80,7 @@
                                             <div class="form-row">
                                                 <div class="col-12">
                                                     <div class="form-group">
-                                                        <input type="password" name="password" id="password" placeholder=" " required>
+                                                        <input type="password" name="password" id="password" placeholder=" " value="" required>
                                                         <label for="password">Insira a sua Senha</label>
                                                     </div>
                                                 </div>

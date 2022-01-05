@@ -8,7 +8,7 @@
 
 ## Apresentação:
 
-<img src="./screenshot.png" alt="screenshot of project">
+<img src="./screenshot.jpg" alt="screenshot of project">
 
 
 ## 🔗 Grade de conteúdos:
